@@ -1,2 +1,2 @@
-# GitRadioWeb.netlify.app
+# GitRadioWeb
 The website
